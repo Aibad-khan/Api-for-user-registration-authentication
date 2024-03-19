@@ -1,4 +1,4 @@
-# Api-for-user-registration-authentication
+# Api-for-user-registration-authentication in NodeJs
 in this we are creating a simple api registration ,authentication and retrieval options for users using nodejs+mongodb
 
 # registering new user
