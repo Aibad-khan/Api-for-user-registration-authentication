@@ -6,3 +6,6 @@ in this we are creating a simple api registration ,authentication for users usin
 
 # authenticating registered users
 ![image](https://github.com/Aibad-khan/Api-for-user-registration-authentication/assets/143527312/2f82254c-ef13-4bd7-b128-1855aa2ace92)
+
+# retrieving all users
+![image](https://github.com/Aibad-khan/Api-for-user-registration-authentication/assets/143527312/09933f0d-dbb4-45d4-b185-05ef3ca4b58d)
